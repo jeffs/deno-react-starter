@@ -1,5 +1,11 @@
 # React + TypeScript with Deno (via Vite)
 
+> [!NOTE]
+> Ryan Dahl has announced that [official support for Deno is ending][1]. The
+> runtime remains open source.
+
+[1]: https://deno.com/blog/cloudflare
+
 This is a sample repo to help you get started with React and Vite using Deno.
 Node runs Vite's dev server, and Deno handles everything else: formatting,
 linting, type checking, testing.
